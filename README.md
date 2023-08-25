@@ -13,4 +13,4 @@ The file [IdealK.py](../main/IdealK.py) is used to calculate the best performing
 The file [Predictions.ipynb](../main/Predictions.ipynb) is used to make predictions for each playoff bracket between Spring 2019 and Summer 2023.
 
 ## Results
-Ideal K-Factor and Playoff Predictions results can be found in [Results.xlsx](../main/Results.xlsx).
+Playoff Predictions results, as well as a few other observations, can be found in [Results.xlsx](../main/Results.xlsx).
