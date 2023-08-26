@@ -1,6 +1,10 @@
 # LoL-ELOs-Project
 ## Freiwald Scholars Project, Summer 2023
 ### By Avery Wang
+#### Department of Mathematics
+#### Washington University in St. Louis
+#### St. Louis, MO
+
 This is a collection of all of the code and CSV files used in my project for the Freiwald Scholars Program in Summer 2023. I will continue to work on this in the future, so any ideas for features to add are appreciated!
 
 ## CSV Files and Reading Data
@@ -14,3 +18,6 @@ The file [Predictions.ipynb](../main/Predictions.ipynb) is used to make predicti
 
 ## Results
 Playoff Predictions results, as well as a few other observations, can be found in [Results.xlsx](../main/Results.xlsx).
+
+## Article
+My article, written upon completion of this project, can be found in [WangArticle.pdf](../main/WangArticle.pdf).
